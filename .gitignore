@@ -1,0 +1,6 @@
+node_modules/
+.idea
+.DS_Store
+./Q3/node_modules
+./Q4/node_modules
+./Q5/node_modules
